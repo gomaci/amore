@@ -1,0 +1,153 @@
+.Larege_img{
+  margin-top: 25px;
+  width: 100%;
+  height: 430px;
+  display:flex;
+  justify-content: space-around;
+}
+.Larege_img .box{
+  width: 488px;
+  height: 200px;
+}
+.Img{
+  width: 488px;
+  height: 312px;
+  border-radius: 10px;
+}
+
+.Txt{
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  width: 488px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #333;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  line-height: 20px;
+}
+
+.Date{
+  font-size: 12px;
+  text-align: center;
+}
+
+.Event_li{
+  width: 1024px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.Item {
+  width: 25%;
+  text-align: center;
+}
+.Item img{
+  width: 240px;
+  border-radius: 10px;
+}
+.Event_li h4{
+  font-size: 15px;
+}
+.Event_li p{
+  font-size: 12px;
+}
+
+.Event_li_btn{
+  padding-top: 10px;
+  width: 1024px;
+  height:46px;
+  text-align: center;
+}
+.Event_li_btn button{
+  width: 160px;
+  height: 46px;
+  border: 0px;
+  outline: 0px;
+  border-radius: 23px;
+  font-size: 14px;
+  border: 1px solid #aeaeae;
+  box-shadow: 2px 2px 3px #f1f1f1;
+}
+
+.Beauty_exe{
+  margin-top: 80px;
+  width: 1024px;
+  height: 500px;
+}
+.Beauty_exe header{}
+.Beauty_exe h3{}
+.Beauty_exe span{}
+.Beauty_exe section{
+  width: 100%;
+  height: 450px;
+}
+
+.magazine{
+  margin-top: 80px;
+}
+.magazine section{
+  width: 1024px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.magazineItem{
+  margin: 10px 0;
+  width: 460px;
+  height: 110px;
+  display: flex;
+  justify-content: space-between;
+}
+.magazineItem img{
+  width:160px;
+}
+.magazineItem div{
+ width: 290px;
+}
+.magazineItem h4{
+  font-size: 15px;
+}
+.magazineItem p{
+  font-size: 12px;
+}
+
+.magazine_btn{
+  padding-top: 10px;
+  width: 1024px;
+  height:46px;
+  text-align: center;
+}
+.magazine_btn button{
+  width: 160px;
+  height: 46px;
+  border: 0px;
+  outline: 0px;
+  border-radius: 23px;
+  font-size: 14px;
+  border: 1px solid #aeaeae;
+  box-shadow: 2px 2px 3px #f1f1f1;
+}
+
+
+
+.progress{}
+.progress header{}
+.progress section{
+  width: 1024px;
+  display: flex;
+  justify-content:flex-start;
+}
+
+
+.progressItem{
+  margin: 0 10px;
+  width: 245px;
+}
+.progressItem img{}
+.progressItem h4{font-size: 15px;}
+.progressItem p{font-size: 12px;}

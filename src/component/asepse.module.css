@@ -1,0 +1,9 @@
+.Box{
+  width:'150px'
+}
+.Inbox{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+}
