@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amore/static/css/main.ffb41236.css",
+    "main.js": "/amore/static/js/main.1f6ffc76.js",
+    "index.html": "/amore/index.html",
+    "main.ffb41236.css.map": "/amore/static/css/main.ffb41236.css.map",
+    "main.1f6ffc76.js.map": "/amore/static/js/main.1f6ffc76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb41236.css",
+    "static/js/main.1f6ffc76.js"
+  ]
+}
